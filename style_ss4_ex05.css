@@ -1,0 +1,10 @@
+/*T===== cascading-tip =====T*/
+.cascading-tip {
+  background-color: #fffdd0;
+  border-left: 10px solid orange;
+  padding: 10px;
+}
+
+.bold {
+  color: #ffb128;
+}
