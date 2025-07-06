@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*T===== Main_title =====T*/
+.main_title {
+  font-family: "Times New Roman", Times, serif;
+  margin: 20px;
+  font-weight: bold;
+}
+
+/*T===== Main_section =====T*/
+.main_section {
+  margin-left: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.form_group {
+  padding: 10px;
+  font-weight: bold;
+}
+
+.form_label {
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.form_input {
+  width: 500px;
+  height: 30px;
+}
+
+.form_textarea {
+  width: 500px;
+  height: 90px;
+}
+
+/*T===== Submit_button =====T*/
+.submit_button {
+  width: 500px;
+  height: 30px;
+  background-color: #00bf4a;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-left: 50px;
+}
