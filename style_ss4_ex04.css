@@ -1,0 +1,9 @@
+.main-message {
+  border: 1px solid black;
+  padding: 5px;
+  font-size: 20px;
+  line-height: 1.6;
+}
+b {
+  color: #218ae0;
+}
