@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*T===== main_title =====T*/
+.main_title {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 50px;
+}
+
+/*T===== navbar =====T*/
+.navbar ul {
+  background-color: #dddddd;
+  text-align: center;
+}
+
+.navbar li {
+  display: inline;
+  font-size: 30px;
+  margin: 0 30px;
+}
+
+.navbar a {
+  color: black;
+  text-decoration: none;
+}
