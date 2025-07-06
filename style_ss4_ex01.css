@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*T===== Main_title  =====T*/
+.main_title {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+/*T=====Wellcome_message=====T*/
+.welcome_message {
+  text-align: center;
+  padding: 10px;
+}
+
+/*T===== main_img =====T*/
+.main_img {
+  text-align: center;
+  height: 600px;
+}
+
+/*T===== Footer_note =====T*/
+.footer_note {
+  text-align: center;
+  padding: 10px;
+}
